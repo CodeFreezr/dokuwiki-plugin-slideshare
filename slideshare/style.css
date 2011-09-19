@@ -1,0 +1,7 @@
+div.dokuwiki div.slide_icon
+{
+  background-image:url('img/slideshare.gif');
+  background-repeat:no-repeat;
+  min-height:16px;
+  padding-left:20px;
+}

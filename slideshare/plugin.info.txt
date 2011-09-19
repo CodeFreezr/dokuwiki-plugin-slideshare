@@ -1,0 +1,8 @@
+base    slideshare
+author  Detlef Burkhardt
+email   burkhardt@web.de
+date    2011-09-20
+name    Slideshare Plugin
+desc    Link or embedded Slideshare Presentations
+url     http://www.dokuwiki.org/plugin:slideshare
+
